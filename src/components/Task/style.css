@@ -1,0 +1,18 @@
+.task {
+	border: 3px solid red;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.task input[type="checkbox"] {
+    width: 1.5em;
+    height: 1.5em;
+    margin-left: 15px;
+}
+
+.task small {
+    font-size: 15px;
+    color: #888;
+}
